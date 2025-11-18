@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\dine\dine\bin\Debug\dine.exe.config
+C:\Users\user\Desktop\dine\dine\bin\Debug\dine.exe
+C:\Users\user\Desktop\dine\dine\bin\Debug\dine.pdb
+C:\Users\user\Desktop\dine\dine\obj\Debug\dine.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dine\dine\obj\Debug\dine.Form1.resources
+C:\Users\user\Desktop\dine\dine\obj\Debug\dine.Properties.Resources.resources
+C:\Users\user\Desktop\dine\dine\obj\Debug\dine.csproj.GenerateResource.cache
+C:\Users\user\Desktop\dine\dine\obj\Debug\dine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dine\dine\obj\Debug\dine.exe
+C:\Users\user\Desktop\dine\dine\obj\Debug\dine.pdb
+C:\Users\user\Desktop\dine\dine\obj\Debug\dine.exe.config
